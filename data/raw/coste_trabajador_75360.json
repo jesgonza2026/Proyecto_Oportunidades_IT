@@ -1,0 +1,362 @@
+[
+  {
+    "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680, Coste salarial por hora",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680",
+        "Codigo": "1industriasmanufacturerasticcnae261126122620263026402680"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por hora",
+        "Codigo": "costesalarialporhora"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 20.3
+      }
+    ]
+  },
+  {
+    "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680, Coste salarial por trabajador y mes",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680",
+        "Codigo": "1industriasmanufacturerasticcnae261126122620263026402680"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por trabajador y mes",
+        "Codigo": "costesalarialportrabajadorymes"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 2847.6
+      }
+    ]
+  },
+  {
+    "Nombre": "2. SERVICIOS, Coste salarial por hora",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2. SERVICIOS",
+        "Codigo": "2servicios"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por hora",
+        "Codigo": "costesalarialporhora"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 22.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2. SERVICIOS, Coste salarial por trabajador y mes",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2. SERVICIOS",
+        "Codigo": "2servicios"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por trabajador y mes",
+        "Codigo": "costesalarialportrabajadorymes"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 3051.4
+      }
+    ]
+  },
+  {
+    "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652, Coste salarial por hora",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652",
+        "Codigo": "2aindustriascomercialesticcnae46514652"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por hora",
+        "Codigo": "costesalarialporhora"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 19.9
+      }
+    ]
+  },
+  {
+    "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652, Coste salarial por trabajador y mes",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652",
+        "Codigo": "2aindustriascomercialesticcnae46514652"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por trabajador y mes",
+        "Codigo": "costesalarialportrabajadorymes"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 2751.7
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829, Coste salarial por hora",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829",
+        "Codigo": "2b1industriasdeserviciosticediciondeprogramasinformaticoscnae58215829"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por hora",
+        "Codigo": "costesalarialporhora"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 22.6
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829, Coste salarial por trabajador y mes",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829",
+        "Codigo": "2b1industriasdeserviciosticediciondeprogramasinformaticoscnae58215829"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por trabajador y mes",
+        "Codigo": "costesalarialportrabajadorymes"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 3142.2
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190, Coste salarial por hora",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190",
+        "Codigo": "2b2industriasdeserviciostictelecomunicacionescnae6110612061306190"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por hora",
+        "Codigo": "costesalarialporhora"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 26.5
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190, Coste salarial por trabajador y mes",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190",
+        "Codigo": "2b2industriasdeserviciostictelecomunicacionescnae6110612061306190"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por trabajador y mes",
+        "Codigo": "costesalarialportrabajadorymes"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 3619.9
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209, Coste salarial por hora",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209",
+        "Codigo": "2b3industriasdeserviciosticprogramacionconsultoriayotrasactividadesrelacionadasconlainformaticacnae6201620262036209"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por hora",
+        "Codigo": "costesalarialporhora"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 25.8
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209, Coste salarial por trabajador y mes",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209",
+        "Codigo": "2b3industriasdeserviciosticprogramacionconsultoriayotrasactividadesrelacionadasconlainformaticacnae6201620262036209"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por trabajador y mes",
+        "Codigo": "costesalarialportrabajadorymes"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 3650.6
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312, Coste salarial por hora",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312",
+        "Codigo": "2b4industriasdeserviciosticportaleswebprocesamientodedatoshostingyactividadesrelacionadascnae63116312"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por hora",
+        "Codigo": "costesalarialporhora"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 24.8
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312, Coste salarial por trabajador y mes",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312",
+        "Codigo": "2b4industriasdeserviciosticportaleswebprocesamientodedatoshostingyactividadesrelacionadascnae63116312"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por trabajador y mes",
+        "Codigo": "costesalarialportrabajadorymes"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 3222.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512, Coste salarial por hora",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512",
+        "Codigo": "2b5industriasdeserviciosticreparaciondeordenadoresyequiposdecomunicacioncnae95119512"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por hora",
+        "Codigo": "costesalarialporhora"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 15.8
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512, Coste salarial por trabajador y mes",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512",
+        "Codigo": "2b5industriasdeserviciosticreparaciondeordenadoresyequiposdecomunicacioncnae95119512"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por trabajador y mes",
+        "Codigo": "costesalarialportrabajadorymes"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 2207.3
+      }
+    ]
+  },
+  {
+    "Nombre": "TOTAL SECTOR TIC, Coste salarial por hora",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "TOTAL SECTOR TIC",
+        "Codigo": "totalsectortic"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por hora",
+        "Codigo": "costesalarialporhora"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 21.9
+      }
+    ]
+  },
+  {
+    "Nombre": "TOTAL SECTOR TIC, Coste salarial por trabajador y mes",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "TOTAL SECTOR TIC",
+        "Codigo": "totalsectortic"
+      },
+      {
+        "T3_Variable": "Tipo de indicador",
+        "Nombre": "Coste salarial por trabajador y mes",
+        "Codigo": "costesalarialportrabajadorymes"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 3047.7
+      }
+    ]
+  }
+]

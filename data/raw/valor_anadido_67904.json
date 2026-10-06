@@ -1,0 +1,722 @@
+[
+  {
+    "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680, 2024",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680",
+        "Codigo": "1industriasmanufacturerasticcnae261126122620263026402680"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2024",
+        "Codigo": "2024"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 1430708.0
+      }
+    ]
+  },
+  {
+    "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680, 2023",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680",
+        "Codigo": "1industriasmanufacturerasticcnae261126122620263026402680"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2023",
+        "Codigo": "2023"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 1330338.0
+      }
+    ]
+  },
+  {
+    "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680, 2022",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680",
+        "Codigo": "1industriasmanufacturerasticcnae261126122620263026402680"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2022",
+        "Codigo": "2022"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 1149398.0
+      }
+    ]
+  },
+  {
+    "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680, 2021",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "1. INDUSTRIAS MANUFACTURERAS TIC: CNAE 2611, 2612, 2620, 2630, 2640, 2680",
+        "Codigo": "1industriasmanufacturerasticcnae261126122620263026402680"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2021",
+        "Codigo": "2021"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 1043605.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2. SERVICIOS, 2024",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2. SERVICIOS",
+        "Codigo": "2servicios"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2024",
+        "Codigo": "2024"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 54820568.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2. SERVICIOS, 2023",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2. SERVICIOS",
+        "Codigo": "2servicios"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2023",
+        "Codigo": "2023"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 50239058.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2. SERVICIOS, 2022",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2. SERVICIOS",
+        "Codigo": "2servicios"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2022",
+        "Codigo": "2022"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 44469826.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2. SERVICIOS, 2021",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2. SERVICIOS",
+        "Codigo": "2servicios"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2021",
+        "Codigo": "2021"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 39005705.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652, 2024",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652",
+        "Codigo": "2aindustriascomercialesticcnae46514652"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2024",
+        "Codigo": "2024"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 5338838.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652, 2023",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652",
+        "Codigo": "2aindustriascomercialesticcnae46514652"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2023",
+        "Codigo": "2023"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 5242137.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652, 2022",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652",
+        "Codigo": "2aindustriascomercialesticcnae46514652"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2022",
+        "Codigo": "2022"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 4832026.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652, 2021",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.A INDUSTRIAS COMERCIALES TIC: CNAE 4651, 4652",
+        "Codigo": "2aindustriascomercialesticcnae46514652"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2021",
+        "Codigo": "2021"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 4703731.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829, 2024",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829",
+        "Codigo": "2b1industriasdeserviciosticediciondeprogramasinformaticoscnae58215829"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2024",
+        "Codigo": "2024"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 1393014.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829, 2023",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829",
+        "Codigo": "2b1industriasdeserviciosticediciondeprogramasinformaticoscnae58215829"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2023",
+        "Codigo": "2023"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 1281454.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829, 2022",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829",
+        "Codigo": "2b1industriasdeserviciosticediciondeprogramasinformaticoscnae58215829"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2022",
+        "Codigo": "2022"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 1071354.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829, 2021",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.1 INDUSTRIAS DE SERVICIOS TIC: EDICIÓN DE PROGRAMAS INFORMÁTICOS: CNAE 5821 , 5829",
+        "Codigo": "2b1industriasdeserviciosticediciondeprogramasinformaticoscnae58215829"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2021",
+        "Codigo": "2021"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 874829.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190, 2024",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190",
+        "Codigo": "2b2industriasdeserviciostictelecomunicacionescnae6110612061306190"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2024",
+        "Codigo": "2024"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 13154269.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190, 2023",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190",
+        "Codigo": "2b2industriasdeserviciostictelecomunicacionescnae6110612061306190"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2023",
+        "Codigo": "2023"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 12921945.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190, 2022",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190",
+        "Codigo": "2b2industriasdeserviciostictelecomunicacionescnae6110612061306190"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2022",
+        "Codigo": "2022"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 12170209.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190, 2021",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.2 INDUSTRIAS DE SERVICIOS TIC: TELECOMUNICACIONES: CNAE 6110, 6120, 6130, 6190",
+        "Codigo": "2b2industriasdeserviciostictelecomunicacionescnae6110612061306190"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2021",
+        "Codigo": "2021"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 11934620.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209, 2024",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209",
+        "Codigo": "2b3industriasdeserviciosticprogramacionconsultoriayotrasactividadesrelacionadasconlainformaticacnae6201620262036209"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2024",
+        "Codigo": "2024"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 31189997.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209, 2023",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209",
+        "Codigo": "2b3industriasdeserviciosticprogramacionconsultoriayotrasactividadesrelacionadasconlainformaticacnae6201620262036209"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2023",
+        "Codigo": "2023"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 27364683.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209, 2022",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209",
+        "Codigo": "2b3industriasdeserviciosticprogramacionconsultoriayotrasactividadesrelacionadasconlainformaticacnae6201620262036209"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2022",
+        "Codigo": "2022"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 23556460.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209, 2021",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.3 INDUSTRIAS DE SERVICIOS TIC: PROGRAMACIÓN, CONSULTORÍA Y OTRAS ACTIVIDADES RELACIONADAS CON LA INFORMÁTICA: CNAE 6201, 6202, 6203, 6209",
+        "Codigo": "2b3industriasdeserviciosticprogramacionconsultoriayotrasactividadesrelacionadasconlainformaticacnae6201620262036209"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2021",
+        "Codigo": "2021"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 18972437.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312, 2024",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312",
+        "Codigo": "2b4industriasdeserviciosticportaleswebprocesamientodedatoshostingyactividadesrelacionadascnae63116312"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2024",
+        "Codigo": "2024"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 3105158.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312, 2023",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312",
+        "Codigo": "2b4industriasdeserviciosticportaleswebprocesamientodedatoshostingyactividadesrelacionadascnae63116312"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2023",
+        "Codigo": "2023"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 2872770.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312, 2022",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312",
+        "Codigo": "2b4industriasdeserviciosticportaleswebprocesamientodedatoshostingyactividadesrelacionadascnae63116312"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2022",
+        "Codigo": "2022"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 2262561.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312, 2021",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.4 INDUSTRIAS DE SERVICIOS TIC: PORTALES WEB, PROCESAMIENTO DE DATOS, HOSTING Y ACTIVIDADES RELACIONADAS: CNAE 6311, 6312",
+        "Codigo": "2b4industriasdeserviciosticportaleswebprocesamientodedatoshostingyactividadesrelacionadascnae63116312"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2021",
+        "Codigo": "2021"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 1948802.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512, 2024",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512",
+        "Codigo": "2b5industriasdeserviciosticreparaciondeordenadoresyequiposdecomunicacioncnae95119512"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2024",
+        "Codigo": "2024"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 639291.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512, 2023",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512",
+        "Codigo": "2b5industriasdeserviciosticreparaciondeordenadoresyequiposdecomunicacioncnae95119512"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2023",
+        "Codigo": "2023"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 556069.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512, 2022",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512",
+        "Codigo": "2b5industriasdeserviciosticreparaciondeordenadoresyequiposdecomunicacioncnae95119512"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2022",
+        "Codigo": "2022"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 577216.0
+      }
+    ]
+  },
+  {
+    "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512, 2021",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "2.B.5 INDUSTRIAS DE SERVICIOS TIC: REPARACION DE ORDENADORES Y EQUIPOS DE COMUNICACIÓN: CNAE 9511, 9512",
+        "Codigo": "2b5industriasdeserviciosticreparaciondeordenadoresyequiposdecomunicacioncnae95119512"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2021",
+        "Codigo": "2021"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 571285.0
+      }
+    ]
+  },
+  {
+    "Nombre": "TOTAL SECTOR TIC, 2024",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "TOTAL SECTOR TIC",
+        "Codigo": "totalsectortic"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2024",
+        "Codigo": "2024"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 56251275.0
+      }
+    ]
+  },
+  {
+    "Nombre": "TOTAL SECTOR TIC, 2023",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "TOTAL SECTOR TIC",
+        "Codigo": "totalsectortic"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2023",
+        "Codigo": "2023"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 51569396.0
+      }
+    ]
+  },
+  {
+    "Nombre": "TOTAL SECTOR TIC, 2022",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "TOTAL SECTOR TIC",
+        "Codigo": "totalsectortic"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2022",
+        "Codigo": "2022"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 45619225.0
+      }
+    ]
+  },
+  {
+    "Nombre": "TOTAL SECTOR TIC, 2021",
+    "MetaData": [
+      {
+        "T3_Variable": "Rama de actividad",
+        "Nombre": "TOTAL SECTOR TIC",
+        "Codigo": "totalsectortic"
+      },
+      {
+        "T3_Variable": "Periodo de referencia",
+        "Nombre": "2021",
+        "Codigo": "2021"
+      }
+    ],
+    "Data": [
+      {
+        "Valor": 40049310.0
+      }
+    ]
+  }
+]
