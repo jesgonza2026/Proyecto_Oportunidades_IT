@@ -177,3 +177,44 @@ Actividades a trabajar para el proyecto:
 3) Seleccionar 3 preguntas y revisar que efectivamente se pueden tarabajar con la data suminstrada 
 4) Repasar codigo de lectura dinamica de api y creacion de archivos .json
 5) Si se realiza algun cambio en tu proyecto, subir los cambios al repositorio
+
+
+
+PREGUNTAS FINALES:
+
+1)¿Crece más la facturación TIC o el empleo?
+2)¿Qué actividades TIC hacen crecer más al sector?
+3)?Cuánto crece la facturación TIC cada año?
+4)¿Han aumentado las empresas TIC en todas las actividades?
+5)Qué actividad TIC aporta más valor añadido por trabajador?
+6)¿Qué tamaño tienen las empresas TIC según su actividad?
+7)¿Cuánto factura de media una empresa TIC según su actividad?
+8)¿Cuánto pesa la programación y consultoría dentro del sector TIC?
+
+
+| #     | Pregunta de negocio                                                                | Tabla(s) INE      | Variables que necesitamos                             | Qué calculamos / analizamos                                                                        |
+| ----- | ---------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **1** | **¿Crece más la facturación TIC o el empleo?**                                     | **67903 + 67901** | Actividad, periodo, cifra de negocios, ocupados       | Comparamos la evolución (%) de facturación y empleo                                                |
+| **2** | **¿Qué actividades TIC impulsan más el crecimiento de la facturación del sector?** | **67903**         | Actividad, periodo, cifra de negocios                 | Calculamos cuánto aumenta la facturación de cada actividad y            cuáles contribuyen más al crecimiento |
+| **3** | **¿Cuánto crece la facturación TIC cada año?**                                     | **67903**         | Periodo, cifra de negocios total del sector           | Calculamos la variación interanual de la facturación                                               |
+| **4** | **¿Han aumentado las empresas TIC en todas las actividades?**                      | **71007**         | Actividad, periodo, número de empresas                | Comparamos la evolución del número de empresas por actividad                                       |
+| **5** | **¿Qué actividad TIC aporta más valor añadido por trabajador?**                    | **67904 + 67901** | Actividad, periodo, valor añadido, ocupados           | **Valor añadido / nº de ocupados**                                                                 |
+| **6** | **¿Qué tamaño tienen las empresas TIC según su actividad?**                        | **71007 + 67901** | Actividad, periodo, nº de empresas, nº de ocupados    | **Ocupados / empresas** → tamaño medio de las empresas por actividad                               |
+| **7** | **¿Cuánto factura de media una empresa TIC según su actividad?**                   | **67903 + 71007** | Actividad, periodo, cifra de negocios, nº de empresas | **Facturación / nº de empresas**                                                                   |
+| **8** | **¿Qué peso tiene la programación y consultoría dentro del sector TIC?**           | **67903**         | Actividad, periodo, cifra de negocios                 | Peso de la actividad sobre la facturación total del sector   
+
+
+--------------------------------------------------------------------------------------------
+
+
+Las 4 tablas que vas a utilizar
+ID	Tabla INE	Unidad oficial	¿Dónde lo verificas?
+
+71007	Número de empresas en el sector TIC por rama de actividad	Número de empresas	En la propia ficha de la tabla aparece: “Unidades: Número de empresas”.https://www.ine.es/jaxi/Tabla.htm?tpx=71007&L=0&utm_source=chatgpt.com
+
+67901	Número de ocupados en el sector TIC por rama de actividad	Número de personas	En la propia ficha aparece: “Unidades: Número de personas”.https://www.ine.es/jaxi/Tabla.htm?tpx=67901&L=0&utm_source=chatgpt.com
+
+67903	Cifra de negocios en el sector TIC por rama de actividad	Miles de euros	La tabla de INEbase es la fuente que debemos consultar para la unidad. Además, el INE confirma para el indicador que la cifra de negocios se expresa en términos monetarios; su publicación de 2024 presenta los datos económicos en millones de euros.https://www.ine.es/jaxi/Tabla.htm?tpx=67903&L=0&utm_source=chatgpt.com
+
+67904	Valor añadido en el sector TIC por rama de actividad	Miles de euros	En la propia ficha de la tabla aparece literalmente: “Unidades: Miles de euros”.https://www.ine.es/jaxi/Tabla.htm?tpx=67904&L=0&utm_source=chatgpt.com                                     |
+
