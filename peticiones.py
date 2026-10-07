@@ -71,3 +71,4 @@ for tabla in tablas:
 
 print("-" * 50)
 print(f"Descarga completada: {exitos} de {len(tablas)} tablas")
+

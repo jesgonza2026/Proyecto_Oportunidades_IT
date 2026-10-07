@@ -155,3 +155,25 @@ Actividades a trabajar para el proyecto:
 2) Completar las tablas, tal como se trabajó la primera de ellas
 3) Verificar estatus antes de hacer json() y crear archivo json para guardar en data/raw (lo veremos en clases, pero puedes avanzarlo si deseas)
 4) Actualizar los cambios realizados en la carpeta "proyecto" a tu repositorio de git
+
+(LISTO)
+---
+
+Actividades a trabajar para el proyecto:
+
+1) Repasar codigo de lectura dinamica de api (src/extract.py)
+2) Repasar codigo de creacion de archivos .json (src/extract.py)
+3) Subir cambios en tu propio proyecto 
+4) Subir los cambios al repositorio
+
+(LISTO)
+
+---
+
+Actividades a trabajar para el proyecto:
+
+1) Analizar las referencias de las tablas y sus preguntas
+2) Basado en las tablas generar 10 preguntas interesantes que no usen mas de dos tablas
+3) Seleccionar 3 preguntas y revisar que efectivamente se pueden tarabajar con la data suminstrada 
+4) Repasar codigo de lectura dinamica de api y creacion de archivos .json
+5) Si se realiza algun cambio en tu proyecto, subir los cambios al repositorio
