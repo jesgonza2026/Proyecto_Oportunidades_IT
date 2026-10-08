@@ -11,30 +11,7 @@ Actividades a trabajar para el proyecto:
 5) Analizar de forma general la data de los json junto con su documentacion del INE.
 
 
-PREGUNTAS:
 
-🔗 Y las preguntas son:
-
-P1. ¿Cómo ha evolucionado económicamente el sector IT en España?
-
-P2. ¿Está creciendo la cifra de negocios del sector IT al mismo ritmo que el empleo?
-
-P3. ¿Cómo ha evolucionado la productividad y la capacidad de generación de valor del sector IT?
-
-P4. ¿Cómo está evolucionando la relación entre costes laborales, empleo y productividad en el sector IT?
-
-P5. ¿Cómo está evolucionando la adopción de tecnologías digitales en las empresas del sector IT en España?
-
-✅ LOS 8 DATASETS QUE NECESITAS
-#	ID	Dataset	Para qué
-1	71007	Nº de empresas del sector TIC	---> Pregunta 1
-2	67903	Cifra de negocios del sector TIC --->	Preguntas 1, 2 y 3
-3	67904	Valor añadido del sector TIC	Preguntas ---> 1 y 3
-4	67901	Nº de ocupados del sector TIC	Preguntas ----> 1, 2 y 3
-5	75360	Coste salarial por trabajador y mes/hora en el sector TIC --->	Pregunta 4
-6	71018	Inteligencia Artificial ---> 	Pregunta 5
-7	76386	Cloud Computing	----> Pregunta 5
-8	76403	Uso y analítica de datos: ERP, CRM, BI, etc.	Pregunta 5
 
 Los cuatro primeros pertenecen a los Indicadores del Sector TIC y tienen la categoría TOTAL SECTOR TIC.
 
@@ -57,87 +34,8 @@ Ver tabla 67904 en Datos.gob.es
 4️⃣ Número de ocupados TIC — 67901
 https://servicios.ine.es/wstempus/js/es/DATOS_TABLA/67901?tip=AM
 
-Ver tabla 67901 en Datos.gob.es
-
-5️⃣ Coste salarial TIC — 75360 ⭐
-https://servicios.ine.es/wstempus/js/es/DATOS_TABLA/75360?tip=AM
-
-Esta es la que sustituye al 6038. Es mucho más adecuada para nuestro proyecto porque la tabla es específicamente:
-
-Ganancia media por hora, trabajador y mes en el sector TIC por rama de actividad
-
-y contiene TOTAL SECTOR TIC, además de coste salarial por trabajador/mes y coste salarial por hora.
-
-Ver tabla 75360 en Datos.gob.es
-
-6️⃣ Inteligencia Artificial — 71018
-https://servicios.ine.es/wstempus/js/es/DATOS_TABLA/71018?tip=AM
-
-La tabla incluye la agrupación Sector TIC y diferentes indicadores de utilización de IA. Para nuestro proyecto seleccionaremos el indicador general de empresas que utilizan IA.
-
-Ver tabla 71018 en Datos.gob.es
-
-7️⃣ Cloud Computing — 76386
-https://servicios.ine.es/wstempus/js/es/DATOS_TABLA/76386?tip=AM
-
-La tabla incluye explícitamente 4. Sector TIC y diferentes indicadores de utilización de Cloud.
-
-Ver tabla 76386 en Datos.gob.es
-
-8️⃣ Uso y analítica de datos — 76403
-https://servicios.ine.es/wstempus/js/es/DATOS_TABLA/76403?tip=AM
-
-Esta tabla contiene específicamente:
-
-ERP
-CRM
-BI
-Analítica de datos
-
-y además tiene la dimensión de actividad económica que nos permite seleccionar las empresas TIC.
-
-Ver tabla 76403 en Datos.gob.es
-
-🟢 LISTA DEFINITIVA PARA TU PROYECTO
-
-Guárdate esta lista:
-
-01 → 71007 → Empresas TIC
-02 → 67903 → Cifra de negocios TIC
-03 → 67904 → Valor añadido TIC
-04 → 67901 → Ocupados TIC
-05 → 75360 → Coste salarial TIC
-06 → 71018 → Inteligencia Artificial
-07 → 76386 → Cloud Computing
-08 → 76403 → ERP / CRM / BI / Analítica
-
-Total: 8 endpoints.
-
-Y ahora sí, no necesitamos el 6038 para este proyecto.
-
-Además, los cuatro primeros tienen actualización de julio de 2025 y la operación del sector TIC continúa activa en INEbase; la página de la operación aparece actualizada en 2026.
-
-📌 ¿Qué haremos ahora?
-
-Ya podemos pasar directamente a Python.
-
-Empezaría por:
-
-71007 → Empresas TIC
-
-y haremos juntas:
-
-import requests
-
-→ petición a la API
-→ response
-→ .json()
-→ entender el JSON
-→ crear nuestro DataFrame
-→ seleccionar TOTAL SECTOR TIC.
 
 
----
 
 Actividades a trabajar para el proyecto:
 
@@ -178,7 +76,8 @@ Actividades a trabajar para el proyecto:
 4) Repasar codigo de lectura dinamica de api y creacion de archivos .json
 5) Si se realiza algun cambio en tu proyecto, subir los cambios al repositorio
 
-
+(LISTO)
+---
 
 PREGUNTAS FINALES:
 
@@ -217,4 +116,18 @@ ID	Tabla INE	Unidad oficial	¿Dónde lo verificas?
 67903	Cifra de negocios en el sector TIC por rama de actividad	Miles de euros	La tabla de INEbase es la fuente que debemos consultar para la unidad. Además, el INE confirma para el indicador que la cifra de negocios se expresa en términos monetarios; su publicación de 2024 presenta los datos económicos en millones de euros.https://www.ine.es/jaxi/Tabla.htm?tpx=67903&L=0&utm_source=chatgpt.com
 
 67904	Valor añadido en el sector TIC por rama de actividad	Miles de euros	En la propia ficha de la tabla aparece literalmente: “Unidades: Miles de euros”.https://www.ine.es/jaxi/Tabla.htm?tpx=67904&L=0&utm_source=chatgpt.com                                     |
+
+---
+
+Actividades a trabajar para el proyecto:
+
+1) Verificar que los datos descritos si corresponden a las tablas indicadas
+2) Obtener tabla/json/documento con los codigos y nombres de las categorías
+
+---------------------------------------------------------------------------------------
+
+Enlace oficial del INE a la CNAE-2009:
+https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177032&idp=1254735976614&menu=resultados&utm_source=chatgpt.com#_tabs-1254736195862
+
+
 
