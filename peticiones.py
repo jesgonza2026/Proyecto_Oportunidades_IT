@@ -14,11 +14,13 @@ tablas = [
     {"id": "67903", "nombre": "cifra_negocios"},
     {"id": "67904", "nombre": "valor_anadido"},
     {"id": "67901", "nombre": "num_ocupados"},
-    {"id": "75360", "nombre": "coste_trabajador"},
-    {"id": "71018", "nombre": "ia"},
-    {"id": "76386", "nombre": "cloud_computing"},
-    {"id": "76403", "nombre": "analitica_datos"}
+    
 ]
+
+#{"id": "75360", "nombre": "coste_trabajador"},
+#{"id": "71018", "nombre": "ia"},
+#{"id": "76386", "nombre": "cloud_computing"},
+#{"id": "76403", "nombre": "analitica_datos"}
 
 # Definir constantes de la url
 base_url = 'https://servicios.ine.es/wstempus/jsCache/es/DATOS_TABLA'
